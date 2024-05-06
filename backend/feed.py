@@ -73,7 +73,7 @@ class Feed:
         - np.ndarray or None: new frame if there is significant change, otherwise None.
         """
         new_frame = self.get_frame()
-        if not new_frame:
+        if new_frame is None:
             return None
 
         if self.cur_frame is None:

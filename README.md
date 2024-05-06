@@ -6,6 +6,7 @@ This repository contains my work over the 2024 spring semester of CIS II. this i
 - **Node.js**: [download & install Node.js](https://nodejs.org/)
 - run `pip3 install -r requirements.txt` to obtain all python library dependencies.
 - run `npm install` in `UI` directory to obtain all js library dependencies.
+- navigate to `dependencies/perphix` and run `pip3 install .`
 - ensure that you have a `.pth` model weights file in the `dependencies` directory.
 
 ## running
