@@ -1,6 +1,6 @@
 # pelvis-fluoro-software
 
-This repository contains my work over the 2024 spring semester of CIS II. this includes a backend to obtain X-rays from a video capture device, process X-rays through a provided model, and send analysis over a websocket to a frontend that displays all visualizations and key measurements.
+This repository contains my work over the 2024 spring semester of CIS II. This includes a backend to obtain X-rays from a video capture device, process X-rays through a provided model, and send analysis over a websocket to a frontend that displays all visualizations and key measurements.
 
 ## dependencies
 - **Node.js**: [download & install Node.js](https://nodejs.org/)
