@@ -1,0 +1,32 @@
+site_name: Perphix
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Data:
+    - Dataset Format: data/format.md
+    - Real Data Collection: data/collection.md
+  - API Reference:
+    - perphix.data: reference/data.md
+    - perphix.utils.vis_utils: reference/vis_utils.md
+    - perphix.augment: reference/augment.md
+  - About: about.md
+
+theme:
+  name: readthedocs
+  features:
+    - content.code.copy
+  navigation_depth: 1
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+
+plugins:
+  - search
+  - mkdocstrings

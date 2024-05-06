@@ -1,0 +1,16 @@
+numpy
+rich
+pycocotools
+opencv-python
+albumentations
+pydicom
+seaborn # added
+
+# development
+pre-commit
+black
+flake8
+pytest
+reorder-python-imports
+toml
+

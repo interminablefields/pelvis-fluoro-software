@@ -1,0 +1,6 @@
+click
+rich
+numpy
+pycocotools
+albumentations
+opencv-python
