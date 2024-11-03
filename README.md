@@ -1,6 +1,6 @@
 # pelvis-fluoro-software
 
-This repository contains my work over the 2024 spring semester of CIS II. This includes a backend to obtain X-rays from a video capture device, process X-rays through a provided model, and send analysis over a websocket to a frontend that displays all visualizations and key measurements.
+This repository contains my work over the 2024 spring semester of CIS II. This includes a backend to obtain X-rays from a video capture device, process X-rays through a provided model, and send analysis over a websocket to a locally-hosted frontend that displays all visualizations and key measurements.
 
 Software diagram:
 ![image1](https://github.com/janyabudaraju/pelvis-fluoro-software/assets/52179416/1dad92b2-09a6-44a5-aec5-25adb2a87274)
