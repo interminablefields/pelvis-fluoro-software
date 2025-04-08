@@ -1,8 +1,6 @@
 # pelvis-fluoro-software
 
-Real-time fluoroscopy acquisition, analysis, and visualization for intraoperative analysis & augmentation of pelvic X-rays.
-
-This includes a backend to obtain X-rays from a video capture device, process X-rays through a provided model, and send analysis over a websocket to a locally-hosted frontend that displays all visualizations and key measurements.
+Real-time fluoroscopy acquisition, analysis, and visualization for intraoperative analysis & augmentation of pelvic X-rays. This includes a backend to obtain X-rays from a video capture device, process X-rays through a provided model, and send analysis over a websocket to a locally-hosted frontend that displays all visualizations and key measurements.
 
 Software diagram:
 ![image1](https://github.com/janyabudaraju/pelvis-fluoro-software/assets/52179416/1dad92b2-09a6-44a5-aec5-25adb2a87274)
